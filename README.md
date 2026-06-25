@@ -1,1 +1,3 @@
 # The Agent Releases Repo
+
+Latest Version 1.0.0
